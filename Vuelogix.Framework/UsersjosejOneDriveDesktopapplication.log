@@ -1,0 +1,62 @@
+23:23:03,031  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:31 - Before navigating to: 'http://10.4.5.245:8080/ferno/home/index.action'
+23:23:05,792  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:35 - Navigated to:'http://10.4.5.245:8080/ferno/home/index.action'
+23:23:05,832  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.name: username
+23:23:05,851  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.name: username
+23:23:05,887  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.name: password
+23:23:05,896  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.name: password
+23:23:05,926  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[2]/form/div[4]/button
+23:23:05,945  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[2]/form/div[4]/button
+23:23:05,945  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:50 - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: /html/body/div[2]/form/div[4]/button]
+23:23:06,228  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:55 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: /html/body/div[2]/form/div[4]/button]
+23:23:06,232  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //div[@class='modal-body']
+23:23:06,245  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //div[@class='modal-body']
+23:23:06,800  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //div[@class='modal-body']
+23:23:06,808  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //div[@class='modal-body']
+23:23:06,831  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //div[@class='modal-body']
+23:23:06,840  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //div[@class='modal-body']
+23:23:06,864  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //div[@class='modal-body']
+23:23:06,873  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //div[@class='modal-body']
+23:23:06,895  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/button[1]
+23:23:06,904  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/button[1]
+23:23:06,905  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:50 - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: /html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/button[1]]
+23:23:21,540  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:55 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: /html[1]/body[1]/div[4]/div[1]/div[1]/div[2]/div[1]/button[1]]
+23:23:21,540  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:21,623  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:21,651  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:21,661  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:22,193  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:22,202  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:22,231  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:22,239  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]
+23:23:31,267  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[2]/a/span/li
+23:23:51,307  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:77 - Exception occured: org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div[1]/div[1]/div[3]/ul/li[2]/a/span/li
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'LAPTOP-83K3QJ4L', ip: '10.4.5.237', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 93.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210927210923, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 468, moz:profile: C:\Users\josej\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 90179508-d35e-416b-84cf-48818a02c94c
+*** Element info: {Using=xpath, value=/html/body/div[1]/div[1]/div[3]/ul/li[2]/a/span/li}
+23:23:51,315  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:159 - Taking screenshot for the failed caseWed Oct 27 23:23:51 IST 2021
+23:23:51,566  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[3]/a/span/li
+23:23:51,575  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: /html/body/div[1]/div[1]/div[3]/ul/li[3]/a/span/li
+23:24:00,594  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="alarm"]
+23:24:00,605  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="alarm"]
+23:24:00,616  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="matrix"]
+23:24:00,623  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="matrix"]
+23:24:00,631  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="report"]
+23:24:00,639  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="report"]
+23:24:00,647  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="alarm"]
+23:24:00,655  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="alarm"]
+23:24:00,663  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="matrix"]
+23:24:00,671  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="matrix"]
+23:24:05,690  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="logout-user"]
+23:24:05,699  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="logout-user"]
+23:24:05,726  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="logout-user"]
+23:24:05,735  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="logout-user"]
+23:24:05,760  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="logout-user"]
+23:24:05,768  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="logout-user"]
+23:24:06,904  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:86 - Trying to find Element By : By.xpath: //*[@id="trigger_logout"]
+23:24:06,912  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:90 - Found Element By : By.xpath: //*[@id="trigger_logout"]
+23:24:06,912  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:50 - Trying to click on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: //*[@id="trigger_logout"]]
+23:24:07,183  INFO com.ferno.qa.util.WebEventListener<strong>{1}</strong>:55 - Clicked on: [[FirefoxDriver: firefox on WINDOWS (90179508-d35e-416b-84cf-48818a02c94c)] -> xpath: //*[@id="trigger_logout"]]
